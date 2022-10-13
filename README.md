@@ -7,7 +7,7 @@ The aim of the project is to practice the three wrangling steps: Gathering, Asse
 ## Gathering
 Three datasets were used for the project
 - The first dataset was directly downloaded from the Udacity Classroom. It contains data on tweets about dogs and their ratings.
-- The second was scraped off a [website](' https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv'). It contained data on predictions of dog breed from their images.
+- The second was scraped off a [website](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv). It contained data on predictions of dog breed from their images.
 - The third dataset is a json text from Twitter API showing a record of tweets about dogs and other features like retweet_count and favourite_count.
 
 ## Assessment and Cleaning
